@@ -1,0 +1,1239 @@
+﻿Log file open, 07/20/18 15:18:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Office
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.200617
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.141s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4212847
+LogInit: Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Jul 14 2018 09:51:14
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.20-21.18.22:854][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.20-21.18.22:854][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.20-21.18.22:873][  0]LogHAL: Display: Platform has ~ 16 GB [17040244736 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.07.20-21.18.22:873][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.07.20-21.18.22:873][  0]LogInit: Going up to parent DeviceProfile []
+[2018.07.20-21.18.22:874][  0]LogInit: Computer: DESKTOP-HGT6GHT
+[2018.07.20-21.18.22:874][  0]LogInit: User: LMcKamey
+[2018.07.20-21.18.22:874][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.07.20-21.18.22:874][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2018.07.20-21.18.22:874][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.20-21.18.22:874][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.20-21.18.22:874][  0]LogMemory: Process Physical Memory: 99.94 MB used, 99.94 MB peak
+[2018.07.20-21.18.22:874][  0]LogMemory: Process Virtual Memory: 84.31 MB used, 84.31 MB peak
+[2018.07.20-21.18.22:874][  0]LogMemory: Physical Memory: 3988.64 MB used,  12262.20 MB free, 16250.84 MB total
+[2018.07.20-21.18.22:874][  0]LogMemory: Virtual Memory: 4615.21 MB used,  12262.20 MB free, 134217728.00 MB total
+[2018.07.20-21.18.22:891][  0]LogInit: Using OS detected language (en-US).
+[2018.07.20-21.18.22:891][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.20-21.18.22:892][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.20-21.18.23:325][  0]LogStreaming: Display: Took  0.433s to InitEngineTextLocalization.
+[2018.07.20-21.18.23:325][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.20-21.18.23:379][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.20-21.18.23:379][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.20-21.18.23:660][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.20-21.18.23:660][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.20-21.18.23:737][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M500M' (Feature Level 11_0)
+[2018.07.20-21.18.23:737][  0]LogD3D11RHI:       2010/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.20-21.18.23:748][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.07.20-21.18.23:748][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.07.20-21.18.23:750][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.20-21.18.23:750][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.20-21.18.23:750][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.20-21.18.23:791][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.20-21.18.23:791][  0]LogD3D11RHI:     GPU DeviceId: 0x137a (for the marketing name, search the web for "GPU Device Id")
+[2018.07.20-21.18.23:791][  0]LogWindows: EnumDisplayDevices:
+[2018.07.20-21.18.23:791][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.07.20-21.18.23:792][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.07.20-21.18.23:792][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.07.20-21.18.23:792][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.20-21.18.23:792][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M500M
+[2018.07.20-21.18.23:792][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.20-21.18.23:792][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.20-21.18.23:792][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.07.20-21.18.23:846][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.20-21.18.23:916][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.20-21.18.23:917][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/Intermediate/Shaders/WorkingDirectory/8252/).
+[2018.07.20-21.18.23:917][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/LMcKamey/AppData/Local/Temp/UnrealShaderWorkingDir/4608042F45100EF8C7C4F6BCB563A625/'.
+[2018.07.20-21.18.24:326][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.20-21.18.24:344][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.20-21.18.24:360][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.20-21.18.24:377][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.20-21.18.24:392][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.20-21.18.24:409][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.20-21.18.24:426][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.20-21.18.24:443][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.20-21.18.24:451][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:540][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-21.18.24:542][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.20-21.18.24:606][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.20-21.18.24:606][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.20-21.18.24:631][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.20-21.18.24:631][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.20-21.18.24:646][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.20-21.18.24:662][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.20-21.18.24:678][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.20-21.18.24:695][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.20-21.18.24:706][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.07.20-21.18.24:707][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.20-21.18.24:774][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.20-21.18.24:774][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.20-21.18.24:774][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.20-21.18.25:776][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.20-21.18.25:841][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/LMcKamey/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.07.20-21.18.25:842][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/LMcKamey/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.07.20-21.18.25:842][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.20-21.18.25:842][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.20-21.18.25:842][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.20-21.18.25:842][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.20-21.18.25:857][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.20-21.18.25:870][  0]LogDerivedDataCache: Using Local data cache path C:/Users/LMcKamey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.20-21.18.25:870][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.20-21.18.25:870][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.20-21.18.25:890][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.20-21.18.25:892][  0]LogSlate: Using FreeType 2.6.0
+[2018.07.20-21.18.25:892][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.20-21.18.25:976][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2018.07.20-21.18.26:383][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.20-21.18.26:533][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.20-21.18.26:537][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.20-21.18.26:537][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.07.20-21.18.26:537][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.20-21.18.26:537][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.20-21.18.26:558][  0]LogNetVersion: Office 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3125035308)
+[2018.07.20-21.18.27:158][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.109992 seconds
+[2018.07.20-21.18.27:165][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.07.20-21.18.27:165][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.07.20-21.18.27:165][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.20-21.18.28:128][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.20-21.18.28:142][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.20-21.18.28:292][  0]SourceControl: Source control is disabled
+[2018.07.20-21.18.28:293][  0]SourceControl: Source control is disabled
+[2018.07.20-21.18.28:294][  0]SourceControl: Source control is disabled
+[2018.07.20-21.18.28:295][  0]SourceControl: Source control is disabled
+[2018.07.20-21.18.28:467][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.20-21.18.28:520][  0]LogOcInput: OculusInput pre-init called
+[2018.07.20-21.18.28:591][  0]LogEngine: Initializing Engine...
+[2018.07.20-21.18.28:592][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.20-21.18.28:593][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.07.20-21.18.28:593][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.20-21.18.28:593][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.07.20-21.18.28:593][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.20-21.18.28:863][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.07.20-21.18.28:877][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.20-21.18.28:886][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.20-21.18.28:946][  0]LogInit: FAudioDevice initialized.
+[2018.07.20-21.18.28:946][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.07.20-21.18.29:039][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/LMcKamey/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.07.20-21.18.29:052][  0]LogInit: Texture streaming: Enabled
+[2018.07.20-21.18.29:069][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.20-21.18.29:089][  0]LogInit: Transaction tracking system initialized
+[2018.07.20-21.18.29:117][  0]BlueprintLog: New page: Editor Load
+[2018.07.20-21.18.29:218][  0]LocalizationService: Localization service is disabled
+[2018.07.20-21.18.29:908][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.20-21.18.29:908][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.20-21.18.29:908][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.20-21.18.29:908][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.07.20-21.18.29:908][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.20-21.18.29:908][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.07.20-21.18.29:908][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.20-21.18.30:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LMcKamey/Documents/Unreal Projects/Office/Content/' took 0.02s
+[2018.07.20-21.18.30:052][  0]SourceControl: Source control is disabled
+[2018.07.20-21.18.30:053][  0]Cmd: MAP LOAD FILE="../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.20-21.18.30:053][  0]LightingResults: New page: Lighting Build
+[2018.07.20-21.18.30:056][  0]MapCheck: New page: Map Check
+[2018.07.20-21.18.30:056][  0]LightingResults: New page: Lighting Build
+[2018.07.20-21.18.30:685][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.20-21.18.30:699][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.20-21.18.30:729][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.20-21.18.30:819][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.3ms to complete.
+[2018.07.20-21.18.30:819][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.766
+[2018.07.20-21.18.30:945][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.20-21.18.30:955][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.20-21.18.30:964][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.20-21.18.30:973][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.20-21.18.30:981][  0]LogCollectionManager: Loaded 0 collections in 0.002102 seconds
+[2018.07.20-21.18.31:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LMcKamey/Documents/Unreal Projects/Office/Saved/Collections/' took 0.01s
+[2018.07.20-21.18.31:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LMcKamey/Documents/Unreal Projects/Office/Content/Developers/LMcKamey/Collections/' took 0.01s
+[2018.07.20-21.18.31:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LMcKamey/Documents/Unreal Projects/Office/Content/Collections/' took 0.01s
+[2018.07.20-21.18.31:023][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.20-21.18.31:033][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2572 classes and 603 folders.
+[2018.07.20-21.18.31:040][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.20-21.18.31:086][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.20-21.18.31:091][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.20-21.18.31:186][  0]LogSlate: Took 0.000392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.20-21.18.31:190][  0]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.20-21.18.31:202][  0]LogSlate: Took 0.000514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.20-21.18.31:324][  0]LogRenderer: Reallocating scene render targets to support 1288x624 Format 9 NumSamples 1 (Frame:1).
+[2018.07.20-21.18.31:540][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.20-21.18.31:540][  0]LogLoad: (Engine Initialization) Total time: 10.56 seconds
+[2018.07.20-21.18.31:540][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.20-21.18.31:550][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.20-21.18.31:575][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.20-21.18.31:612][  1]LogAssetRegistry: Asset discovery search completed in 5.6579 seconds
+[2018.07.20-21.18.31:614][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.20-21.18.31:614][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2018.07.20-21.18.37:174][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.18.38:275][298]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.20-21.18.38:703][298]LogAIModule: Creating AISystem for world Office
+[2018.07.20-21.18.38:724][298]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Office.Office
+[2018.07.20-21.18.38:752][298]Cmd: MAP LOAD FILE="../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/Content/Maps/Office.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.20-21.18.38:753][298]LightingResults: New page: Lighting Build
+[2018.07.20-21.18.38:753][298]LoadErrors: New page: Loading map: Office.umap
+[2018.07.20-21.18.38:754][298]MapCheck: New page: Map Check
+[2018.07.20-21.18.38:754][298]LightingResults: New page: Lighting Build
+[2018.07.20-21.18.38:863][298]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.20-21.18.38:919][298]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.20-21.18.39:014][298]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 94.546ms to complete.
+[2018.07.20-21.18.39:015][298]LogFileHelpers: Loading map 'Office' took 0.264
+[2018.07.20-21.18.43:579][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-21.18.44:113][511]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.07.20-21.18.45:727][574]Cmd: DELETE
+[2018.07.20-21.18.45:727][574]Cmd: ACTOR DELETE
+[2018.07.20-21.18.45:746][574]LogEditorActor: Deleted Actor: Brush
+[2018.07.20-21.18.45:806][574]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2018.07.20-21.18.46:498][600]Cmd: DELETE
+[2018.07.20-21.18.46:499][600]Cmd: ACTOR DELETE
+[2018.07.20-21.18.46:506][600]LogEditorActor: Deleted Actor: Brush
+[2018.07.20-21.18.46:560][600]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2018.07.20-21.21.14:658][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.22.12:050][314]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-21.22.12:839][356]Cmd: TRANSACTION UNDO
+[2018.07.20-21.22.12:839][356]LogEditorTransaction: Undo Select Surfaces
+[2018.07.20-21.22.15:357][486]Cmd: TRANSACTION UNDO
+[2018.07.20-21.22.15:358][486]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.22.15:400][486]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2018.07.20-21.22.15:401][486]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2018.07.20-21.22.15:401][486]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush45.BrushComponent0) Component already registered.
+[2018.07.20-21.22.15:406][486]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush48.BrushComponent0) Component already registered.
+[2018.07.20-21.22.15:407][486]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.07.20-21.22.15:407][486]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2018.07.20-21.22.16:487][544]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.20-21.24.39:399][657]Cmd: TRANSACTION UNDO
+[2018.07.20-21.24.39:399][657]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.24.39:500][657]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush53.BrushComponent0) Component already registered.
+[2018.07.20-21.24.39:509][657]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush90.BrushComponent0) Component already registered.
+[2018.07.20-21.24.39:509][657]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush101.BrushComponent0) Component already registered.
+[2018.07.20-21.24.39:510][657]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush112.BrushComponent0) Component already registered.
+[2018.07.20-21.25.07:313][693]Cmd: TRANSACTION UNDO
+[2018.07.20-21.25.07:313][693]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.25.07:417][693]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush27.BrushComponent0) Component already registered.
+[2018.07.20-21.25.07:421][693]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush106.BrushComponent0) Component already registered.
+[2018.07.20-21.25.07:426][693]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush112.BrushComponent0) Component already registered.
+[2018.07.20-21.25.07:427][693]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush55.BrushComponent0) Component already registered.
+[2018.07.20-21.25.07:428][693]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.07.20-21.25.15:048][983]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-21.25.17:238][ 72]Cmd: POLY SELECT ADJACENT WALLS
+[2018.07.20-21.25.28:692][515]Cmd: TRANSACTION UNDO
+[2018.07.20-21.25.28:693][515]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.20-21.25.29:210][529]Cmd: TRANSACTION UNDO
+[2018.07.20-21.25.29:210][529]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.07.20-21.25.29:228][529]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush99.BrushComponent0) Component already registered.
+[2018.07.20-21.25.29:229][529]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush51.BrushComponent0) Component already registered.
+[2018.07.20-21.25.29:230][529]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush41.BrushComponent0) Component already registered.
+[2018.07.20-21.25.30:325][572]Cmd: TRANSACTION UNDO
+[2018.07.20-21.25.30:325][572]LogEditorTransaction: Undo Select Adjacent Walls
+[2018.07.20-21.25.55:458][308]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2018.07.20-21.26.29:243][524]Cmd: TRANSACTION UNDO
+[2018.07.20-21.26.29:243][524]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.07.20-21.26.29:827][551]Cmd: TRANSACTION UNDO
+[2018.07.20-21.26.29:827][551]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.07.20-21.26.30:991][604]Cmd: TRANSACTION UNDO
+[2018.07.20-21.26.30:991][604]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.07.20-21.26.34:444][738]Cmd: TRANSACTION UNDO
+[2018.07.20-21.26.34:444][738]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.07.20-21.26.35:579][780]Cmd: TRANSACTION UNDO
+[2018.07.20-21.26.35:579][780]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.07.20-21.26.36:257][807]Cmd: TRANSACTION UNDO
+[2018.07.20-21.26.36:257][807]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.07.20-21.26.36:842][830]Cmd: TRANSACTION UNDO
+[2018.07.20-21.26.36:842][830]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.07.20-21.26.37:404][852]Cmd: TRANSACTION UNDO
+[2018.07.20-21.26.37:405][852]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.07.20-21.26.37:866][870]Cmd: TRANSACTION UNDO
+[2018.07.20-21.26.37:867][870]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.20-21.26.38:089][877]Cmd: TRANSACTION UNDO
+[2018.07.20-21.26.38:089][877]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.07.20-21.26.38:162][877]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2018.07.20-21.26.38:163][877]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2018.07.20-21.26.38:165][877]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2018.07.20-21.26.38:169][877]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush80.BrushComponent0) Component already registered.
+[2018.07.20-21.26.38:173][877]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush76.BrushComponent0) Component already registered.
+[2018.07.20-21.26.38:189][877]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush81.BrushComponent0) Component already registered.
+[2018.07.20-21.26.45:000][133]Cmd: TRANSACTION UNDO
+[2018.07.20-21.26.45:000][133]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.07.20-21.26.45:070][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2018.07.20-21.26.45:070][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2018.07.20-21.26.45:071][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2018.07.20-21.26.45:072][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush80.BrushComponent0) Component already registered.
+[2018.07.20-21.26.45:075][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush76.BrushComponent0) Component already registered.
+[2018.07.20-21.26.45:076][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush81.BrushComponent0) Component already registered.
+[2018.07.20-21.27.46:950][513]Cmd: TRANSACTION UNDO
+[2018.07.20-21.27.46:951][513]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.27.47:059][513]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2018.07.20-21.27.47:065][513]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2018.07.20-21.27.47:066][513]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2018.07.20-21.27.47:068][513]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush102.BrushComponent0) Component already registered.
+[2018.07.20-21.27.47:070][513]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush72.BrushComponent0) Component already registered.
+[2018.07.20-21.29.19:209][269]Cmd: TRANSACTION UNDO
+[2018.07.20-21.29.19:210][269]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.20-21.29.19:605][280]Cmd: TRANSACTION UNDO
+[2018.07.20-21.29.19:605][280]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.29.19:700][280]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2018.07.20-21.29.19:710][280]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush120.BrushComponent0) Component already registered.
+[2018.07.20-21.29.19:710][280]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush112.BrushComponent0) Component already registered.
+[2018.07.20-21.29.20:132][295]Cmd: TRANSACTION UNDO
+[2018.07.20-21.29.20:132][295]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.20-21.29.20:445][306]Cmd: TRANSACTION UNDO
+[2018.07.20-21.29.20:445][306]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.29.20:546][306]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2018.07.20-21.29.20:554][306]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush120.BrushComponent0) Component already registered.
+[2018.07.20-21.29.20:555][306]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush112.BrushComponent0) Component already registered.
+[2018.07.20-21.29.20:711][310]Cmd: TRANSACTION UNDO
+[2018.07.20-21.29.20:711][310]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.20-21.29.21:011][321]Cmd: TRANSACTION UNDO
+[2018.07.20-21.29.21:011][321]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.29.21:111][321]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2018.07.20-21.29.21:119][321]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush120.BrushComponent0) Component already registered.
+[2018.07.20-21.29.21:120][321]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush112.BrushComponent0) Component already registered.
+[2018.07.20-21.29.21:263][323]Cmd: TRANSACTION UNDO
+[2018.07.20-21.29.21:263][323]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.20-21.29.21:524][333]Cmd: TRANSACTION UNDO
+[2018.07.20-21.29.21:524][333]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.29.21:627][333]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2018.07.20-21.29.21:635][333]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush120.BrushComponent0) Component already registered.
+[2018.07.20-21.29.21:636][333]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush112.BrushComponent0) Component already registered.
+[2018.07.20-21.29.21:767][336]Cmd: TRANSACTION UNDO
+[2018.07.20-21.29.21:767][336]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.29.21:864][336]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush48.BrushComponent0) Component already registered.
+[2018.07.20-21.29.21:865][336]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
+[2018.07.20-21.29.21:874][336]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush32.BrushComponent0) Component already registered.
+[2018.07.20-21.29.21:877][336]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush86.BrushComponent0) Component already registered.
+[2018.07.20-21.29.21:880][336]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush113.BrushComponent0) Component already registered.
+[2018.07.20-21.29.23:375][399]Cmd: TRANSACTION REDO
+[2018.07.20-21.29.23:376][399]LogEditorTransaction: Redo Move Actors
+[2018.07.20-21.30.05:306][  7]Cmd: TRANSACTION UNDO
+[2018.07.20-21.30.05:306][  7]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.30.05:422][  7]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush107.BrushComponent0) Component already registered.
+[2018.07.20-21.30.05:423][  7]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush109.BrushComponent0) Component already registered.
+[2018.07.20-21.30.05:423][  7]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush95.BrushComponent0) Component already registered.
+[2018.07.20-21.30.05:430][  7]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush66.BrushComponent0) Component already registered.
+[2018.07.20-21.30.05:436][  7]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush58.BrushComponent0) Component already registered.
+[2018.07.20-21.30.38:938][343]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2018.07.20-21.30.46:072][610]Cmd: POLY SELECT ADJACENT WALLS
+[2018.07.20-21.30.51:872][824]Cmd: TRANSACTION UNDO
+[2018.07.20-21.30.51:872][824]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.30.51:983][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush43.BrushComponent0) Component already registered.
+[2018.07.20-21.30.51:991][824]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush32.BrushComponent0) Component already registered.
+[2018.07.20-21.32.42:568][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.32.48:933][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.32.53:523][759]Cmd: TRANSACTION UNDO
+[2018.07.20-21.32.53:523][759]LogEditorTransaction: Undo Edit Z
+[2018.07.20-21.32.53:642][759]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush51.BrushComponent0) Component already registered.
+[2018.07.20-21.32.53:644][759]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2018.07.20-21.32.53:645][759]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush61.BrushComponent0) Component already registered.
+[2018.07.20-21.32.53:647][759]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2018.07.20-21.32.53:653][759]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush21_28.BrushComponent0) Component already registered.
+[2018.07.20-21.32.53:655][759]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush150.BrushComponent0) Component already registered.
+[2018.07.20-21.32.53:658][759]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush91.BrushComponent0) Component already registered.
+[2018.07.20-21.32.53:661][759]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush101.BrushComponent0) Component already registered.
+[2018.07.20-21.33.47:422][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.34.59:077][889]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2018.07.20-21.35.36:819][378]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.07.20-21.35.42:435][587]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.20-21.35.43:528][628]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.20-21.35.46:284][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.35.46:342][736]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-21.35.46:378][736]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.35.46:378][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-21.35.46:391][736]PIE: New page: PIE session: Office (Jul 20, 2018, 9:35:46 AM)
+[2018.07.20-21.35.46:391][736]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Office
+[2018.07.20-21.35.46:432][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040680s)
+[2018.07.20-21.35.46:433][736]LogAIModule: Creating AISystem for world Office
+[2018.07.20-21.35.46:434][736]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2018.07.20-21.35.46:434][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Office.Office to /Game/Maps/UEDPIE_0_Office.Office (0.042264s)
+[2018.07.20-21.35.46:522][736]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.20-21.35.46:542][736]LogInit: FAudioDevice initialized.
+[2018.07.20-21.35.46:590][736]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.20-21.35.46:596][736]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Office.Office up for play (max tick rate 0) at 2018.07.20-15.35.46
+[2018.07.20-21.35.46:597][736]LogWorld: Bringing up level for play took: 0.004358
+[2018.07.20-21.35.46:614][736]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.07.20-21.35.46:616][736]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Office 0.649
+[2018.07.20-21.35.46:617][736]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.36.04:767][842]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.36.04:767][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.20-21.36.04:817][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.20-21.36.04:818][842]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.36.04:860][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.20-21.36.04:891][843]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.07.20-21.36.14:455][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-21.36.16:155][312]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-21.36.29:349][878]Cmd: DELETE
+[2018.07.20-21.36.29:349][878]Cmd: ACTOR DELETE
+[2018.07.20-21.36.29:420][878]LogEditorActor: Deleted Actor: Brush
+[2018.07.20-21.36.29:421][878]LogEditorActor: Deleted Actor: Brush
+[2018.07.20-21.36.29:424][878]LogEditorActor: Deleted Actor: Brush
+[2018.07.20-21.36.29:425][878]LogEditorActor: Deleted Actor: Brush
+[2018.07.20-21.36.29:598][878]LogEditorActor: Deleted 4 Actors (0.249 secs)
+[2018.07.20-21.37.44:661][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.00:427][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.01:712][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.03:220][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.04:944][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.06:226][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.07:542][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.17:185][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-21.38.41:077][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.45:394][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.46:923][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.48:378][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.49:671][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.51:259][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.52:676][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.54:143][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.56:725][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.38.57:178][921]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-21.38.57:213][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.38.57:213][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-21.38.57:213][921]PIE: New page: PIE session: Office (Jul 20, 2018, 9:38:57 AM)
+[2018.07.20-21.38.57:213][921]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Office
+[2018.07.20-21.38.57:267][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053869s)
+[2018.07.20-21.38.57:268][921]LogAIModule: Creating AISystem for world Office
+[2018.07.20-21.38.57:269][921]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2018.07.20-21.38.57:269][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Office.Office to /Game/Maps/UEDPIE_0_Office.Office (0.055364s)
+[2018.07.20-21.38.57:335][921]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.20-21.38.57:352][921]LogInit: FAudioDevice initialized.
+[2018.07.20-21.38.57:389][921]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.20-21.38.57:393][921]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Office.Office up for play (max tick rate 0) at 2018.07.20-15.38.57
+[2018.07.20-21.38.57:394][921]LogWorld: Bringing up level for play took: 0.003479
+[2018.07.20-21.38.57:407][921]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Office -0.561
+[2018.07.20-21.38.57:415][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.39.26:173][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.39.26:180][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.20-21.39.26:223][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.20-21.39.26:223][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.39.26:262][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.20-21.39.26:283][593]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.07.20-21.39.27:016][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-21.39.28:107][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-21.39.29:125][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-21.39.39:646][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.39.46:746][387]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush185)
+[2018.07.20-21.39.46:818][387]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-21.40.03:951][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.40.31:430][168]Cmd: POLY SELECT MEMORY UNION
+[2018.07.20-21.40.33:709][260]Cmd: POLY SELECT MEMORY UNION
+[2018.07.20-21.40.56:289][117]LogGeometryMode: Warning: Unable to find BoxBrush128 Brush(s) in new BSP
+[2018.07.20-21.40.56:289][117]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.20-21.41.00:806][304]Cmd: TRANSACTION UNDO
+[2018.07.20-21.41.00:806][304]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.20-21.41.01:341][319]Cmd: TRANSACTION UNDO
+[2018.07.20-21.41.01:341][319]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.20-21.41.02:009][345]Cmd: TRANSACTION UNDO
+[2018.07.20-21.41.02:009][345]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.20-21.41.08:995][609]Cmd: TRANSACTION UNDO
+[2018.07.20-21.41.08:995][609]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.41.09:146][609]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush164.BrushComponent0) Component already registered.
+[2018.07.20-21.41.09:148][609]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush106.BrushComponent0) Component already registered.
+[2018.07.20-21.41.09:169][609]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2018.07.20-21.41.09:169][609]LogGeometryMode: Warning: Unable to resolve BoxBrush179 Brush in new BSP, see above
+[2018.07.20-21.41.09:169][609]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.20-21.41.11:880][701]Cmd: TRANSACTION UNDO
+[2018.07.20-21.41.11:880][701]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.41.12:034][701]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush164.BrushComponent0) Component already registered.
+[2018.07.20-21.41.12:036][701]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush106.BrushComponent0) Component already registered.
+[2018.07.20-21.41.12:059][701]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2018.07.20-21.41.12:059][701]LogGeometryMode: Warning: Unable to resolve BoxBrush179 Brush in new BSP, see above
+[2018.07.20-21.41.12:059][701]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.20-21.41.12:508][718]Cmd: TRANSACTION UNDO
+[2018.07.20-21.41.12:508][718]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.41.12:657][718]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush164.BrushComponent0) Component already registered.
+[2018.07.20-21.41.12:658][718]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush106.BrushComponent0) Component already registered.
+[2018.07.20-21.41.12:676][718]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2018.07.20-21.41.12:676][718]LogGeometryMode: Warning: Unable to resolve BoxBrush179 Brush in new BSP, see above
+[2018.07.20-21.41.12:676][718]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.20-21.41.13:430][749]Cmd: TRANSACTION UNDO
+[2018.07.20-21.41.13:430][749]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.41.13:578][749]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush164.BrushComponent0) Component already registered.
+[2018.07.20-21.41.13:579][749]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush106.BrushComponent0) Component already registered.
+[2018.07.20-21.41.13:597][749]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2018.07.20-21.41.13:597][749]LogGeometryMode: Warning: Unable to resolve BoxBrush179 Brush in new BSP, see above
+[2018.07.20-21.41.13:597][749]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.20-21.41.23:919][172]Cmd: TRANSACTION UNDO
+[2018.07.20-21.41.23:920][172]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.41.24:066][172]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush164.BrushComponent0) Component already registered.
+[2018.07.20-21.41.24:067][172]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush106.BrushComponent0) Component already registered.
+[2018.07.20-21.41.41:369][845]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2018.07.20-21.41.45:293][997]Cmd: TRANSACTION UNDO
+[2018.07.20-21.41.45:293][997]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.20-21.41.46:705][ 46]Cmd: TRANSACTION UNDO
+[2018.07.20-21.41.46:705][ 46]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.41.46:852][ 46]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush164.BrushComponent0) Component already registered.
+[2018.07.20-21.41.46:853][ 46]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush106.BrushComponent0) Component already registered.
+[2018.07.20-21.41.46:872][ 46]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2018.07.20-21.41.46:872][ 46]LogGeometryMode: Warning: Unable to resolve BoxBrush179 Brush in new BSP, see above
+[2018.07.20-21.41.46:872][ 46]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.20-21.41.49:834][160]LogGeometryMode: Warning: Unable to find BoxBrush128 Brush(s) in new BSP
+[2018.07.20-21.41.49:834][160]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.20-21.41.51:520][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.42.00:642][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.42.04:553][781]LogGeometryMode: Warning: Unable to find BoxBrush127 Brush(s) in new BSP
+[2018.07.20-21.42.04:553][781]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.20-21.42.06:438][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.42.16:228][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.42.23:530][522]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2018.07.20-21.42.36:016][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.42.40:150][178]LogGeometryMode: Warning: Unable to find BoxBrush186 Brush(s) in new BSP
+[2018.07.20-21.42.40:150][178]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.20-21.42.41:647][237]LogGeometryMode: Warning: Unable to find BoxBrush185 Brush(s) in new BSP
+[2018.07.20-21.42.41:647][237]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.20-21.42.45:487][382]LogGeometryMode: Warning: Unable to find BoxBrush185 Brush(s) in new BSP
+[2018.07.20-21.42.45:487][382]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.20-21.43.09:172][276]Cmd: TRANSACTION UNDO
+[2018.07.20-21.43.09:172][276]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.43.09:313][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.07.20-21.43.09:313][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.07.20-21.43.09:313][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.07.20-21.43.09:313][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.07.20-21.43.09:313][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.07.20-21.43.09:313][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.07.20-21.43.09:313][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.07.20-21.43.09:313][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.07.20-21.43.09:314][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.07.20-21.43.09:314][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.07.20-21.43.09:314][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.07.20-21.43.09:314][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.07.20-21.43.09:314][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.07.20-21.43.09:314][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.07.20-21.43.09:314][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.07.20-21.43.09:314][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.07.20-21.43.09:314][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.07.20-21.43.09:314][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.07.20-21.43.09:314][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.07.20-21.43.09:314][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.07.20-21.43.09:314][276]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507' invalid (2408 verts, 0 indices).
+[2018.07.20-21.43.09:317][276]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1507.BodySetup_0 when we are unable to.
+[2018.07.20-21.43.09:317][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.07.20-21.43.09:317][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.07.20-21.43.09:317][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.07.20-21.43.09:317][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.07.20-21.43.09:317][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.07.20-21.43.09:317][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.07.20-21.43.09:317][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.07.20-21.43.09:317][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508' invalid (2408 verts, 0 indices).
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1508.BodySetup_0 when we are unable to.
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.07.20-21.43.09:318][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509' invalid (2408 verts, 0 indices).
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1509.BodySetup_0 when we are unable to.
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1510, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1510, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1510, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1510, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Office.Office:PersistentLevel.ModelComponent_1510' invalid (2408 verts, 0 indices).
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1510.BodySetup_0 when we are unable to.
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1511, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1511, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1511, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1511, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1511, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1511, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1511, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Office.Office:PersistentLevel.ModelComponent_1511' invalid (2408 verts, 0 indices).
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1511.BodySetup_0 when we are unable to.
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1512, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1512, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1512, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.07.20-21.43.09:319][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1512, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1512, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1512, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1512, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1512, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Office.Office:PersistentLevel.ModelComponent_1512' invalid (2408 verts, 0 indices).
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1512.BodySetup_0 when we are unable to.
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1513, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1513, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1513, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1513, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1513, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1513, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1513, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1513, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.07.20-21.43.09:320][276]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Office.Office:PersistentLevel.ModelComponent_1513' invalid (2408 verts, 0 indices).
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1513.BodySetup_0 when we are unable to.
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1514, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1514, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1514, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1514, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1514, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1514, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1514, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Office.Office:PersistentLevel.ModelComponent_1514' invalid (2408 verts, 0 indices).
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1514.BodySetup_0 when we are unable to.
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1515, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1515, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1515, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1515, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1515, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1515, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1515, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Office.Office:PersistentLevel.ModelComponent_1515' invalid (2408 verts, 0 indices).
+[2018.07.20-21.43.09:321][276]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1515.BodySetup_0 when we are unable to.
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1516, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1516, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1516, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1516, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1516, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1516, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1516, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1516, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Office.Office:PersistentLevel.ModelComponent_1516' invalid (2408 verts, 0 indices).
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1516.BodySetup_0 when we are unable to.
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1517, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1517, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1517, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1517, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1517, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1517, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1517, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1517, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Office.Office:PersistentLevel.ModelComponent_1517' invalid (2408 verts, 0 indices).
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1517.BodySetup_0 when we are unable to.
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1518, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1518, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1518, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1518, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1518, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1518, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.07.20-21.43.09:322][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1518, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.07.20-21.43.09:323][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1518, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.07.20-21.43.09:323][276]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Office.Office:PersistentLevel.ModelComponent_1518' invalid (2408 verts, 0 indices).
+[2018.07.20-21.43.09:323][276]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1518.BodySetup_0 when we are unable to.
+[2018.07.20-21.43.09:323][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1519, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.07.20-21.43.09:323][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1519, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.07.20-21.43.09:323][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1519, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.07.20-21.43.09:323][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1519, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.07.20-21.43.09:323][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1519, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.07.20-21.43.09:323][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1519, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.07.20-21.43.09:323][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1519, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.07.20-21.43.09:323][276]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1519, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.07.20-21.43.09:323][276]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Office.Office:PersistentLevel.ModelComponent_1519' invalid (2408 verts, 0 indices).
+[2018.07.20-21.43.09:323][276]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Office.Office:PersistentLevel.ModelComponent_1519.BodySetup_0 when we are unable to.
+[2018.07.20-21.43.09:329][276]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush164.BrushComponent0) Component already registered.
+[2018.07.20-21.43.09:330][276]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush106.BrushComponent0) Component already registered.
+[2018.07.20-21.43.09:349][276]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2018.07.20-21.43.09:349][276]LogGeometryMode: Warning: Unable to resolve BoxBrush185 Brush in new BSP, see above
+[2018.07.20-21.43.09:349][276]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.20-21.43.44:727][684]Cmd: TRANSACTION UNDO
+[2018.07.20-21.43.44:727][684]LogEditorTransaction: Undo Move Actors
+[2018.07.20-21.43.44:889][684]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush164.BrushComponent0) Component already registered.
+[2018.07.20-21.43.44:891][684]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush106.BrushComponent0) Component already registered.
+[2018.07.20-21.43.44:909][684]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2018.07.20-21.43.44:909][684]LogGeometryMode: Warning: Unable to resolve BoxBrush185 Brush in new BSP, see above
+[2018.07.20-21.43.44:909][684]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.20-21.44.35:557][682]LogGeometryMode: Warning: Unable to find BoxBrush148 Brush(s) in new BSP
+[2018.07.20-21.44.35:557][682]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.20-21.44.42:460][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.44.42:508][958]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-21.44.42:535][958]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.44.42:535][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-21.44.42:536][958]PIE: New page: PIE session: Office (Jul 20, 2018, 9:44:42 AM)
+[2018.07.20-21.44.42:537][958]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Office
+[2018.07.20-21.44.42:593][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056170s)
+[2018.07.20-21.44.42:594][958]LogAIModule: Creating AISystem for world Office
+[2018.07.20-21.44.42:594][958]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2018.07.20-21.44.42:594][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Office.Office to /Game/Maps/UEDPIE_0_Office.Office (0.057694s)
+[2018.07.20-21.44.42:653][958]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.20-21.44.42:671][958]LogInit: FAudioDevice initialized.
+[2018.07.20-21.44.42:703][958]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.20-21.44.42:708][958]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Office.Office up for play (max tick rate 0) at 2018.07.20-15.44.42
+[2018.07.20-21.44.42:708][958]LogWorld: Bringing up level for play took: 0.004369
+[2018.07.20-21.44.42:723][958]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Office 0.754
+[2018.07.20-21.44.42:730][958]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.45.13:727][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.45.13:727][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.20-21.45.13:781][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.20-21.45.13:781][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.45.13:813][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.20-21.45.13:845][746]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.07.20-21.45.20:829][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.45.24:920][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.45.27:511][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.45.44:196][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.45.44:268][  3]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-21.45.44:294][  3]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.45.44:294][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-21.45.44:295][  3]PIE: New page: PIE session: Office (Jul 20, 2018, 9:45:44 AM)
+[2018.07.20-21.45.44:295][  3]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Office
+[2018.07.20-21.45.44:352][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057269s)
+[2018.07.20-21.45.44:353][  3]LogAIModule: Creating AISystem for world Office
+[2018.07.20-21.45.44:354][  3]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2018.07.20-21.45.44:354][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Office.Office to /Game/Maps/UEDPIE_0_Office.Office (0.059149s)
+[2018.07.20-21.45.44:397][  3]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.20-21.45.44:417][  3]LogInit: FAudioDevice initialized.
+[2018.07.20-21.45.44:453][  3]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.20-21.45.44:457][  3]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Office.Office up for play (max tick rate 0) at 2018.07.20-15.45.44
+[2018.07.20-21.45.44:458][  3]LogWorld: Bringing up level for play took: 0.003881
+[2018.07.20-21.45.44:473][  3]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Office 0.505
+[2018.07.20-21.45.44:473][  3]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.46.39:041][245]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.46.39:042][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.20-21.46.39:108][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.20-21.46.39:108][245]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.46.39:137][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.20-21.46.39:172][246]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.07.20-21.47.47:851][ 11]LogSavePackage: Moving '../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/Saved/Office_Auto182A6AFFA481693694F04848EAD0CD673.tmp' to '../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/Saved/Autosaves/Game/Maps/Office_Auto1.umap'
+[2018.07.20-21.47.47:855][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Office' took 0.614
+[2018.07.20-21.47.47:855][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.614
+[2018.07.20-21.51.04:167][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.54.33:551][762]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-21.55.41:411][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.55.57:758][640]Cmd: TRANSACTION UNDO
+[2018.07.20-21.55.57:758][640]LogEditorTransaction: Undo Edit Y
+[2018.07.20-21.55.57:901][640]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush158.BrushComponent0) Component already registered.
+[2018.07.20-21.55.57:906][640]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush117.BrushComponent0) Component already registered.
+[2018.07.20-21.55.58:274][648]Cmd: TRANSACTION UNDO
+[2018.07.20-21.55.58:274][648]LogEditorTransaction: Undo Edit X
+[2018.07.20-21.55.58:416][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush158.BrushComponent0) Component already registered.
+[2018.07.20-21.55.58:420][648]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Office.Office:PersistentLevel.BoxBrush117.BrushComponent0) Component already registered.
+[2018.07.20-21.56.16:134][123]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2018.07.20-21.56.36:504][879]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2018.07.20-21.56.36:760][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-21.56.36:808][890]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-21.56.36:832][890]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.56.36:832][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-21.56.36:832][890]PIE: New page: PIE session: Office (Jul 20, 2018, 9:56:36 AM)
+[2018.07.20-21.56.36:832][890]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Office
+[2018.07.20-21.56.36:890][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057085s)
+[2018.07.20-21.56.36:890][890]LogAIModule: Creating AISystem for world Office
+[2018.07.20-21.56.36:891][890]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2018.07.20-21.56.36:891][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Office.Office to /Game/Maps/UEDPIE_0_Office.Office (0.058292s)
+[2018.07.20-21.56.36:930][890]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.20-21.56.36:946][890]LogInit: FAudioDevice initialized.
+[2018.07.20-21.56.36:980][890]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.20-21.56.36:985][890]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Office.Office up for play (max tick rate 0) at 2018.07.20-15.56.36
+[2018.07.20-21.56.36:985][890]LogWorld: Bringing up level for play took: 0.004566
+[2018.07.20-21.56.37:000][890]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Office 1.032
+[2018.07.20-21.56.37:000][890]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.58.10:866][505]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.58.10:866][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.20-21.58.10:918][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.20-21.58.10:918][505]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Office.Office:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Office.Office:PersistentLevel.Office' with GeneratedClass '/Game/Maps/Office.Office_C' with ClassGeneratedBy '/Game/Maps/Office.Office:PersistentLevel.Office'
+[2018.07.20-21.58.10:953][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.20-21.58.10:986][506]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.07.20-21.59.21:996][272]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-21.59.22:750][272]LogSavePackage: Moving '../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/Saved/Office_Auto28E4B41ED426F9633A4936FA5B6991A6A.tmp' to '../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/Saved/Autosaves/Game/Maps/Office_Auto2.umap'
+[2018.07.20-21.59.22:754][272]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Office' took 0.727
+[2018.07.20-21.59.22:755][272]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.727
+[2018.07.20-22.02.20:279][558]Cmd: SELECT NONE
+[2018.07.20-22.02.22:286][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-22.02.22:399][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Office" FILE="../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/Content/Maps/Office.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.20-22.02.23:115][640]LogSavePackage: Moving '../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/Saved/OfficeA35DF25E46DC974930912BB26C3A4093.tmp' to '../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/Content/Maps/Office.umap'
+[2018.07.20-22.02.23:177][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Office_BuiltData" FILE="../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/Content/Maps/Office_BuiltData.uasset" SILENT=true
+[2018.07.20-22.02.23:856][640]LogSavePackage: Moving '../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/Saved/Office_BuiltData6BB3EAC447B8BD631E4530B2B86040E8.tmp' to '../../../../../../Users/LMcKamey/Documents/Unreal Projects/Office/Content/Maps/Office_BuiltData.uasset'
+[2018.07.20-22.02.25:034][685]LogSlate: Window 'Office - Unreal Editor' being destroyed
+[2018.07.20-22.02.25:378][686]Cmd: QUIT_EDITOR
+[2018.07.20-22.02.26:070][686]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.20-22.02.26:084][686]LogExit: Preparing to exit.
+[2018.07.20-22.02.26:981][686]LogExit: Editor shut down
+[2018.07.20-22.02.26:982][686]LogExit: Transaction tracking system shut down
+[2018.07.20-22.02.27:315][686]LogExit: Object subsystem successfully closed.
+[2018.07.20-22.02.27:335][686]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.20-22.02.27:339][686]LogD3D11RHI: Shutdown
+[2018.07.20-22.02.27:339][686]LogD3D11RHI: CleanupD3DDevice
+[2018.07.20-22.02.27:341][686]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.20-22.02.27:362][686]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2018.07.20-22.02.27:362][686]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2018.07.20-22.02.27:362][686]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.07.20-22.02.27:362][686]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.07.20-22.02.27:362][686]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.07.20-22.02.27:362][686]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.07.20-22.02.27:362][686]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.07.20-22.02.27:362][686]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.07.20-22.02.27:362][686]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.07.20-22.02.27:362][686]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.07.20-22.02.27:362][686]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.07.20-22.02.27:362][686]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.07.20-22.02.27:363][686]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.07.20-22.02.27:364][686]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.07.20-22.02.27:364][686]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.07.20-22.02.27:364][686]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.07.20-22.02.27:364][686]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.07.20-22.02.27:364][686]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.07.20-22.02.27:364][686]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.07.20-22.02.27:841][686]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.07.20-22.02.27:897][686]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.07.20-22.02.28:069][686]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.07.20-22.02.28:070][686]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.07.20-22.02.28:074][686]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.07.20-22.02.28:074][686]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.07.20-22.02.28:074][686]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.07.20-22.02.28:074][686]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.07.20-22.02.28:074][686]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.07.20-22.02.28:074][686]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.07.20-22.02.28:074][686]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.07.20-22.02.28:074][686]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.07.20-22.02.28:074][686]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.07.20-22.02.28:074][686]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.07.20-22.02.28:074][686]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.07.20-22.02.28:074][686]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.07.20-22.02.28:074][686]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.07.20-22.02.28:075][686]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.07.20-22.02.28:176][686]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.07.20-22.02.28:277][686]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.07.20-22.02.28:277][686]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.07.20-22.02.28:277][686]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.07.20-22.02.28:277][686]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.07.20-22.02.28:277][686]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.07.20-22.02.28:277][686]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.07.20-22.02.28:277][686]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.07.20-22.02.28:277][686]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.07.20-22.02.28:277][686]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.07.20-22.02.28:277][686]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.07.20-22.02.28:277][686]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.07.20-22.02.28:278][686]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.07.20-22.02.28:279][686]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.07.20-22.02.28:279][686]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.07.20-22.02.28:279][686]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.07.20-22.02.28:279][686]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.07.20-22.02.28:279][686]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.07.20-22.02.28:279][686]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.07.20-22.02.28:280][686]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.07.20-22.02.28:287][686]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.07.20-22.02.28:287][686]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.07.20-22.02.28:287][686]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.07.20-22.02.28:287][686]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.07.20-22.02.28:287][686]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.07.20-22.02.28:287][686]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.07.20-22.02.28:287][686]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.07.20-22.02.28:287][686]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.07.20-22.02.28:288][686]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.07.20-22.02.28:288][686]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.07.20-22.02.28:288][686]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.07.20-22.02.28:288][686]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.07.20-22.02.28:288][686]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.07.20-22.02.28:288][686]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.07.20-22.02.28:288][686]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.07.20-22.02.28:288][686]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.07.20-22.02.28:288][686]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.07.20-22.02.28:288][686]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.07.20-22.02.28:288][686]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.07.20-22.02.28:288][686]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.07.20-22.02.28:291][686]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.07.20-22.02.28:369][686]LogDerivedDataCache: Shutdown
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.07.20-22.02.28:369][686]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.07.20-22.02.28:370][686]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.07.20-22.02.28:370][686]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.07.20-22.02.28:371][686]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.07.20-22.02.28:371][686]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.07.20-22.02.28:376][686]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.07.20-22.02.28:377][686]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.07.20-22.02.28:377][686]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.07.20-22.02.28:382][686]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.07.20-22.02.28:382][686]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.20-22.02.28:382][686]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1C22287C-448B-9C8E-F69A-7F96AC979250%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.0-4212847%2B%2B%2BUE4%2BRelease-4.20&UserID=31bc67d84c89f360480d34b17c2afd3c%7C58dc73498dca4d29a842c4fe0313a632%7Cd6ebbe62-70f4-4f16-882f-02327908efd9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.20-22.02.28:401][686]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.07.20-22.02.28:402][686]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.07.20-22.02.28:402][686]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.07.20-22.02.28:402][686]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.07.20-22.02.28:402][686]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.07.20-22.02.28:402][686]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.07.20-22.02.28:402][686]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.07.20-22.02.28:402][686]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.07.20-22.02.28:402][686]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.07.20-22.02.28:402][686]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.07.20-22.02.28:402][686]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.20-22.02.28:403][686]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.20-22.02.28:407][686]LogExit: Exiting.
+[2018.07.20-22.02.28:412][686]Log file closed, 07/20/18 16:02:28
